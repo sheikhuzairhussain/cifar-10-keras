@@ -3,6 +3,7 @@
 This is an **image classification program** built with a  **Convolutional Neural Network (CNN)**. It uses [TensorFlow](https://www.tensorflow.org/) (with [Keras](https://keras.io/)) to train a CNN with images from the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset and make predictions accordingly.
 
 <p align="center">
+<br>
 <img src="https://i.ibb.co/72H1FSy/frog.png" width="70%">
 </p>
 
