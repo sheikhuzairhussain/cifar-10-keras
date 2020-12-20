@@ -1,6 +1,6 @@
 # Image classifier with Keras and CIFAR-10 dataset
 
-This is an **image classification program** built with a  **Convolutional Neural Network (CNN)**. It uses [TensorFlow](https://www.tensorflow.org/) (with [Keras](https://keras.io/)) to train a CNN with images from the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset and make predictions accordingly.
+This is an **image classification program** built with a  **Convolutional Neural Network (CNN)**. It uses [TensorFlow](https://www.tensorflow.org/) (with [Keras](https://keras.io/)) to train a CNN with images from the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset and make predictions accordingly. The images are classified into 10 classes - airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
 
 <p align="center">
 <br>
