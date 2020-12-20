@@ -6,8 +6,6 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Conv2D, MaxPooling2D, Flatten
 from tensorflow.keras.optimizers import SGD
 
-
-
 def load_dataset():
 	(train_images, train_labels), (test_images, test_labels) = cifar10.load_data()
 
@@ -44,7 +42,6 @@ def create_model():
 	return model
 
 def train():
-	print("Training started")
 	train_images, train_labels, test_images,test_labels = load_dataset()
 	train_images, test_images = normalize(train_images, test_images)
 
