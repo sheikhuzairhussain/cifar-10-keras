@@ -60,4 +60,3 @@ def test():
 	print('Accuracy: {accuracy}\nLoss: {loss}'.format(**metrics))
 
 train()
-#test
