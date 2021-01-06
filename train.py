@@ -47,7 +47,7 @@ def train():
 
 	model = create_model()
 	model.fit(train_images, train_labels, epochs=50, batch_size=500, verbose=0)
-	model.save('models/curent-model.h5')
+	model.save('models/current-model.h5')
 
 	print('Training complete.')
 
